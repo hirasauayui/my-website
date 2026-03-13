@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "黄子凯的个人主页",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#基本信息",
+    "href": "index.html#基本信息",
+    "title": "黄子凯的个人主页",
+    "section": "基本信息",
+    "text": "基本信息\n\n学号：2025303110141\n\n姓名：黄子凯"
+  },
+  {
+    "objectID": "index.html#联系方式",
+    "href": "index.html#联系方式",
+    "title": "黄子凯的个人主页",
+    "section": "联系方式",
+    "text": "联系方式\n\nGitHub：https://github.com/hirasauayui\n\n\n感谢访问！"
+  },
+  {
+    "objectID": "about.html#title-关于我",
+    "href": "about.html#title-关于我",
+    "title": "About me",
+    "section": "title: “关于我”",
+    "text": "title: “关于我”"
+  },
+  {
+    "objectID": "about.html#基本信息",
+    "href": "about.html#基本信息",
+    "title": "About me",
+    "section": "基本信息",
+    "text": "基本信息\n\n学号：2025303110141\n\n姓名：黄子凯\n\n专业：水土保持"
+  },
+  {
+    "objectID": "about.html#个人简介",
+    "href": "about.html#个人简介",
+    "title": "About me",
+    "section": "个人简介",
+    "text": "个人简介\n你好！我是 黄子凯，一名对数据分析和可视化充满热情的学生。通过这个网站，我希望记录我的学习历程，并分享一些有趣的项目和想法。\n\n研究兴趣\n\n数据可视化 📈\n\n自然语言处理 📝\n\n开源工具与学术写作 ✍️\n\n\n\n想学的技能\n\n编程语言：Python, R, SQL\n\n工具：Quarto, RStudio, VS Code, Git\n\n其他：Markdown, LaTeX"
+  },
+  {
+    "objectID": "about.html#为什么创建这个网站",
+    "href": "about.html#为什么创建这个网站",
+    "title": "About me",
+    "section": "为什么创建这个网站？",
+    "text": "为什么创建这个网站？\n这是我在 Quarto 和 GitHub Pages 上的第一次实践（上课作业）\n\n感谢你的访问，欢迎通过以上方式与我交流！"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "About this site"
+  }
+]
